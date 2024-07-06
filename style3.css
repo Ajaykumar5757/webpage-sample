@@ -1,0 +1,83 @@
+body{
+    background-color: bisque;
+}
+
+.first{
+    color:white;
+    background-color: blue;
+    width:"100%";
+    padding:10px;
+    margin: 10px;
+}
+
+ul{
+    list-style-type:none;
+}
+
+li{
+    display:inline;
+    padding:5px;
+    align-content: center;
+}
+
+.one:hover{
+    color:yellow;
+}
+
+.logo{
+    width:40px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin:20px;
+}
+
+
+.second{
+    text-align: center;
+    width:100;
+}
+
+.third{
+    float:right;
+    width:100%;
+}
+
+.sub{
+    background-color: black;
+    color:white;
+}
+.sub:hover{
+    background-color: aqua;
+    color: black;
+}
+
+.can{
+    background-color: black;
+    color:white;
+}
+.can:hover{
+    background-color: yellow;
+    color: brown;
+}
+
+.last{
+    background-color: blue;
+    color:white;
+    padding:10px;
+}
+.middle{
+    padding-left: 40%;
+    padding-top: 5%;
+}
+
+.space{
+    padding-bottom: 20%;
+}
+
+.change{
+    width:50%;
+    padding-left: 30%;
+}
